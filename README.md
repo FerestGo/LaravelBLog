@@ -1,1 +1,1 @@
-# blog.ru
+# LaravelBlog
