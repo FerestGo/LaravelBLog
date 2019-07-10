@@ -66,7 +66,7 @@
 </div>
 </footer>
 <script src="/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="/vendor/js/clean-blog.min.js"></script>
+<script src="/js/clean-blog.min.js"></script>
 
 <!-- custom code -->
 </body>
