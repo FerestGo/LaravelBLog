@@ -9,14 +9,14 @@
 
     <title>{{ $title }} | {{ setting('site.title')  }}</title>
 
-    <link href="https://ferestgo.design/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <script src="https://ferestgo.design/vendor/jquery/jquery.min.js"></script>
-    <link href="https://ferestgo.design/vendor/css/clean-blog.css" rel="stylesheet">
+    <script src="/jquery/jquery.min.js"></script>
+    <link href="/css/clean-blog.css" rel="stylesheet">
 
 </head>
 
@@ -65,8 +65,8 @@
   </div>
 </div>
 </footer>
-<script src="https://ferestgo.design/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="https://ferestgo.design/vendor/js/clean-blog.min.js"></script>
+<script src="/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/vendor/js/clean-blog.min.js"></script>
 
 <!-- custom code -->
 </body>
