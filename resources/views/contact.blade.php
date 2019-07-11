@@ -7,6 +7,7 @@
     {{ session('message') }}
 </div>
 @endif
+    <p>{!! setting('site.comment_contact') !!}</p>
 
 <form method="POST" action="/contact">
     {{ csrf_field() }}
@@ -14,7 +15,7 @@
         <div class="form-group floating-label-form-group controls">
             <label for="Name">Имя: </label>
             <input type="text" class="form-control" id="name" placeholder="Имя" name="name" required>
-        </div>
+        </div>  
     </div>
 
     <div class="control-group">

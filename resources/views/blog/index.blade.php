@@ -1,4 +1,4 @@
-@extends('layouts.app', ['title' => 'Блог'])
+@extends('layouts.app', ['title' => 'Проекты'])
  
 @section('title', 'Блог')
  
