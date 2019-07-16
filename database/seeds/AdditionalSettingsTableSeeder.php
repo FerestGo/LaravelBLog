@@ -29,7 +29,7 @@ class AdditionalSettingsTableSeeder extends Seeder
     			'display_name' => __('Код в подвал сайта'),
     			'value'        => '',
     			'details'      => '',
-    			'type'         => 'code',
+    			'type'         => 'code_editor',
     			'order'        => 8,
     			'group'        => 'Site',
     		])->save();

@@ -64,11 +64,11 @@
       </div>
   </div>
 </div>
+{!! setting('site.custom_code') !!}
 </footer>
 <script src="/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="/js/clean-blog.min.js"></script>
-
-<!-- custom code -->
+    
 </body>
 
 </html>
