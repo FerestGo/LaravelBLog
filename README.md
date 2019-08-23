@@ -15,7 +15,7 @@
 ## Установка
 
 1. Скачать архив или `git clone` в папку с composer
-1. Заполнить .env.example, переименовать в .env
+1. .env.example, копировать с переименованием в .env и заполнить
 1. Выполнить `php artisan  make:Migration`
 1. Войти в панель администратора  (/admin, admin@admin.ru:password)
 
