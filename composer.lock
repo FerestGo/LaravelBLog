@@ -3419,7 +3419,7 @@
                 "shasum": ""
             },
             "require": {
-                "laravel/framework": ">=5.4.36|^8.0",
+                "laravel/framework": "6.20.26",
                 "php": ">=7.0",
                 "pragmarx/google2fa-qrcode": "^1.0"
             },
@@ -6383,7 +6383,7 @@
             },
             "require-dev": {
                 "laravel/browser-kit-testing": "~2.0.0|~3.0.0|~4.0.0|~5.0.0|~5.1",
-                "laravel/framework": "~5.5|~6.0",
+                "laravel/framework": "6.20.26",
                 "orchestra/testbench": "~3.0|~4.0",
                 "orchestra/testbench-browser-kit": "~3.5|~3.6|~3.7|~3.8|~4.0.0",
                 "phpunit/phpcov": "~4.0|~5.0|~6.0",
